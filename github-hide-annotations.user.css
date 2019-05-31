@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name        GitHub Hide Annotations
+@namespace   github.com/openstyles/stylus
+@version     1.0.0
+@homepageURL https://github.com/xt0rted/GitHub-Hide-Annotations
+@updateURL   https://raw.githubusercontent.com/xt0rted/GitHub-Hide-Annotations/master/github-hide-annotations.user.css
+@license     CC-BY-SA-4.0
+@author      xt0rted
+==/UserStyle== */
+@-moz-document domain("github.com") {
+  .js-inline-annotations {
+    display: none;
+  }
+}
