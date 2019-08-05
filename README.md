@@ -1,5 +1,7 @@
 # GitHub Hide Annotations
 
+> ⚠️ This is now built-in to GitHub
+
 Currently GitHub doesn't give you a way to toggle [Check Run Annotations](https://developer.github.com/changes/2018-05-07-new-checks-api-public-beta/) like they do inline comments.
 This UserCSS style can be toggled on and off to hide the annotations as needed.
 
